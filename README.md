@@ -17,3 +17,5 @@ Caso 3.1 -> calculo-tcc-3.1comH.py
 
 
 Os demais documentos são de etapas anteriores ao resultado final obtido e estão aqui dispostos para quem possa interessar.
+
+Os códigos dos casos 1.1, 1.2 e 1.3 utilizam de uma abordagem passo a passo (com cada linha equivalente a, por assim dizer, uma etapa no processo mateḿático de solução do problema); nos casos 2.1, 2.2 e 2.3, contudo, utiliza-se de uma abordagem funcional (muito devido à maior complexidade destes casos); o caso 3.1 herda a estrutura utilizada nos casos 2.1, 2.2 e 2.3 e possui também uma estrutura de código funcional.
