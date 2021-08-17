@@ -32,7 +32,7 @@ def plotH():
 	plt.ylabel('Característica. de flexibilidade $(h) -$ Tê conforme ASME B16.9')
 	plt.tight_layout(pad=1)
 	plt.legend()
-	plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/caso2.1H', format='eps')
+	#plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/caso2.1H', format='eps')
 	#plt.tight_layout(pad=0.4, w_pad=0.5, h_pad=1.0)
 	
 	fig = plt.figure (32, figsize=(6,6))
@@ -41,7 +41,7 @@ def plotH():
 	plt.ylabel('Característica de flexibilidade $(h) -$ Boca de lobo com reforço')
 	plt.tight_layout(pad=1)
 	plt.legend()
-	plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/caso2.2H', format='eps')
+	#plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/caso2.2H', format='eps')
 	#plt.tight_layout(pad=0.4, w_pad=0.5, h_pad=1.0)
 	
 	fig = plt.figure (33, figsize=(6,6))
@@ -50,7 +50,7 @@ def plotH():
 	plt.ylabel('Característica de flexibilidade $(h) -$ Boca de lobo sem reforço')
 	plt.tight_layout(pad=1)
 	plt.legend()
-	plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/caso2.3H', format='eps')
+	#plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/caso2.3H', format='eps')
 	#plt.tight_layout(pad=0.4, w_pad=0.5, h_pad=1.0)
 	
 	fig = plt.figure (34, figsize=(6,6))
@@ -61,7 +61,7 @@ def plotH():
 	plt.ylabel('Característica de flexibilidade $(h)$')
 	plt.tight_layout(pad=1)
 	plt.legend(loc='center left')
-	plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/caso2.4H', format='eps')
+	#plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/caso2.4H', format='eps')
 	#plt.tight_layout(pad=0.4, w_pad=0.5, h_pad=1.0)
 	
 def fatores2_1 (NPSin,Tin,D_oin,tin,d_oin, recursivo=True): #função que calcula fatores para tês curvados conforme ASME B16.9
@@ -1058,7 +1058,7 @@ def plotFatores(nps, fat, nomeFigura=0):
 	plt.subplots_adjust(wspace=.37)
 
 	if nomeFigura!=0:
-		plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/' + str(nomeFigura) + 'k.eps', format='eps')
+		#plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/' + str(nomeFigura) + 'k.eps', format='eps')
 		
 	#SIFS
 	fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12,6), sharey=True)
@@ -1097,7 +1097,7 @@ def plotFatores(nps, fat, nomeFigura=0):
 	plt.subplots_adjust(wspace=.37)
 	
 	if nomeFigura!=0:
-		plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/' + str(nomeFigura) + '.eps', format='eps')
+		#plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/' + str(nomeFigura) + '.eps', format='eps')
 
 def plotMedia(fat10, fat14, fat18, fat24, nomeFigura=0):
 	
@@ -1175,7 +1175,7 @@ def plotMedia(fat10, fat14, fat18, fat24, nomeFigura=0):
 	
 	
 	if nomeFigura!=0:
-		plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/' + str(nomeFigura) + '.eps', format='eps')
+		#plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/' + str(nomeFigura) + '.eps', format='eps')
 		
 	############
 	
@@ -1218,7 +1218,7 @@ def plotMedia(fat10, fat14, fat18, fat24, nomeFigura=0):
 	
 	
 	if nomeFigura!=0:
-		plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/' + str(nomeFigura) + 'k.eps', format='eps')
+		#plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/' + str(nomeFigura) + 'k.eps', format='eps')
 		
 if True: # INSERINDO PARÂMETROS GEOMÉTRICOS
 	
