@@ -237,7 +237,7 @@ def plotFatores(nps, fat, nomeFigura=0):
 	plt.tight_layout(pad=0.4, w_pad=0.5, h_pad=1.0)
 	
 	if nomeFigura!=0:
-		plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/' + str(nomeFigura) + str(caso) + '.eps', format='eps')
+		#plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/plotFatores/' + str(nomeFigura) + str(caso) + '.eps', format='eps')
 
 		
 if True: #inserindo valores geométricos
