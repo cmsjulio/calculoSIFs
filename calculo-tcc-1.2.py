@@ -123,7 +123,7 @@ plt.xlabel('NPS')
 plt.ylabel('Característica de flexibilidade $(h)$')
 plt.tight_layout(pad=1)
 plt.legend()
-plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/caso 1.2/Figura1.eps', format='eps')
+#plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/caso 1.2/Figura1.eps', format='eps')
 
 
 #fator de flexibilidade (todos iguais, em todos os casos)
@@ -381,14 +381,14 @@ plt.figure (2)
 plt.plot(nps, k_i, marker='*', markersize=10, mfc='white', linestyle='-',alpha=.7, label='$k$ - ' + str(int(P/1000)) + ' kPa')
 plt.tight_layout(pad=1)
 plt.legend()
-plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/caso 1.2/Figura2.eps', format='eps')
+#plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/caso 1.2/Figura2.eps', format='eps')
 
 #SIF no plano
 fig = plt.figure (3, figsize=(6,6))
 plt.plot(nps, i_i, marker='*', markersize=10, mfc='white', linestyle='-',alpha=.7, label='$i_i$, $i_o$ - ' + str(int(P/1000)) + ' kPa')
 plt.tight_layout(pad=1)
 plt.legend()
-plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/caso 1.2/Figura3.eps', format='eps')
+#plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/caso 1.2/Figura3.eps', format='eps')
 
 
 plt.show()
