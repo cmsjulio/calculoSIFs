@@ -125,7 +125,7 @@ plt.xlabel('NPS')
 plt.ylabel('Característica de flexibilidade $(h)$')
 plt.tight_layout(pad=1)
 plt.legend()
-plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/caso 1.3/Figura1.eps', format='eps')
+#plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/caso 1.3/Figura1.eps', format='eps')
 
 #fator de flexibilidade (iguais em ambos os casos, para todas as direções)
 fig = plt.figure (2, figsize=(6,6))
@@ -399,7 +399,7 @@ plt.xlabel('NPS')
 plt.ylabel('Fator de flexibilidade $(k)$')
 plt.tight_layout(pad=1)
 plt.legend()
-plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/caso 1.3/Figura2.eps', format='eps')
+#plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/caso 1.3/Figura2.eps', format='eps')
 
 
 #SIF no plano e fora do plano (iguais)
@@ -409,7 +409,7 @@ plt.xlabel('NPS')
 plt.ylabel('SIF no plano $(i_i)$ e fora do plano $(i_o)$')
 plt.tight_layout(pad=1)
 plt.legend()
-plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/caso 1.3/Figura3.eps', format='eps')
+#plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/caso 1.3/Figura3.eps', format='eps')
 
 plt.show()
 
