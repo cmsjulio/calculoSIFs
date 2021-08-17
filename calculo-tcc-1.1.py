@@ -392,7 +392,7 @@ plt.figure (2)
 plt.plot(nps, k_i, marker='*', markersize=7, mfc='white', linestyle='-',alpha=.7, label='$k_i, k_o, k_t$ - ' + str(int(P/1000)) + ' kPa')
 plt.tight_layout(pad=1)
 plt.legend()
-plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/caso 1.1/Figura2.eps', format='eps')
+#plt.savefig('/home/zh3ro/CORE/biblioteca/16. python/tcc/imagens/caso 1.1/Figura2.eps', format='eps')
 
 #SIF no plano
 fig = plt.figure (3, figsize=(6,6))
