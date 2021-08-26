@@ -5,11 +5,11 @@ Todo material com o qual se trabalhou foi aqui inserido, inclusive aqueles exper
 
 Os documentos em forma final, qual seja, aqueles que foram utilizados na obtenção dos resultados apresentados no TCC, são:
 
-Caso 1.1 -> calculo-tcc-1.1.py
+Caso 1.1 -> calculo-tcc-1.1-NOVOSPARAMETROS.py
 
-Caso 1.2 -> calculo-tcc-1.2.py
+Caso 1.2 -> calculo-tcc-1.2-NOVOSPARAMETROS.py
 
-Caso 1.3 -> calculo-tcc-1.3.py
+Caso 1.3 -> calculo-tcc-1.3-NOVOSPARAMETROS.py
 
 Casos 2.1, 2.2 e 2.3 -> calculo-tcc-2.1a3funcao.py
 
