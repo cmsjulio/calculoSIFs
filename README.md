@@ -1,7 +1,7 @@
 # calculoSIFs
 Código utilizado para cálculo dos fatores de intensificação de tensão e de flexibilidade no trabalho de conclusão de curso.
 
-Todo material com o qual se trabalhou foi aqui inserido, inclusive aqueles experimentais.
+Todo material com o qual se trabalhou foi aqui inserido, inclusive aqueles que depois necessitaram revisão -- e os experimentais.
 
 Os documentos em forma final, qual seja, aqueles que foram utilizados na obtenção dos resultados apresentados no TCC, são:
 
