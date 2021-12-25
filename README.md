@@ -1,7 +1,9 @@
 # calculoSIFs
 Código utilizado para cálculo dos fatores de intensificação de tensão e de flexibilidade no trabalho de conclusão de curso.
 
-O trabalho, de título: "Comparação dos fatores de intensificação de tensão das normas ASME B31.3 e ASME B31J para dimensionamento de tubulações", está disponível em: https://www.researchgate.net/publication/357299413_Comparacao_dos_fatores_de_intensificacao_de_tensao_das_normas_ASME_B313_e_ASME_B31J_para_dimensionamento_de_tubulacoes?channel=doi&linkId=61c529c8da5d105e55f23292&showFulltext=true
+O trabalho, de título "Comparação dos fatores de intensificação de tensão das normas ASME B31.3 e ASME B31J para dimensionamento de tubulações", está disponível em:
+
+https://www.researchgate.net/publication/357299413_Comparacao_dos_fatores_de_intensificacao_de_tensao_das_normas_ASME_B313_e_ASME_B31J_para_dimensionamento_de_tubulacoes?channel=doi&linkId=61c529c8da5d105e55f23292&showFulltext=true
 
 Todo material com o qual se trabalhou foi aqui inserido, inclusive aqueles que depois necessitaram revisão -- e os experimentais.
 
