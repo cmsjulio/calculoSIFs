@@ -13,6 +13,7 @@ the original text can be found [here](https://www.researchgate.net/publication/3
 
 All of the files that were used in there project were made available here. The relation between each case presented in the written work and the files list follows:
 
+
 ### Curves
 
 **Case 1.1 -> [calculo-tcc-1.1-NOVOSPARAMETROS.py](https://github.com/cmsjulio/calculoSIFs/blob/main/calculo-tcc-1.1-NOVOSPARAMETROS.py)**
@@ -24,7 +25,7 @@ All of the files that were used in there project were made available here. The r
 
 ### Tees
 
-**Cases 2.1, 2.2 e 2.3 -> [calculo-tcc-2.1a3funcao.py]()https://github.com/cmsjulio/calculoSIFs/blob/main/calculo-tcc-2.1a3funcao.py**
+**Cases 2.1, 2.2 e 2.3 -> [calculo-tcc-2.1a3funcao.py](https://github.com/cmsjulio/calculoSIFs/blob/main/calculo-tcc-2.1a3funcao.py)**
 
 
 ### Reducers
@@ -52,13 +53,22 @@ Todo material com o qual se trabalhou foi aqui inserido, inclusive aqueles que d
 
 Os documentos em forma final, qual seja, aqueles que foram utilizados na obtenção dos resultados apresentados no TCC, são:
 
+
+### Curvas
+
 **Caso 1.1 -> [calculo-tcc-1.1-NOVOSPARAMETROS.py](https://github.com/cmsjulio/calculoSIFs/blob/main/calculo-tcc-1.1-NOVOSPARAMETROS.py)**
 
 **Caso 1.2 -> [calculo-tcc-1.2-NOVOSPARAMETROS.py](https://github.com/cmsjulio/calculoSIFs/blob/main/calculo-tcc-1.2-NOVOSPARAMETROS.py)**
 
 **Caso 1.3 -> [calculo-tcc-1.3-NOVOSPARAMETROS.py](https://github.com/cmsjulio/calculoSIFs/blob/main/calculo-tcc-1.3-NOVOSPARAMETROS.py)**
 
+
+### Tês
+
 **Casos 2.1, 2.2 e 2.3 -> [calculo-tcc-2.1a3funcao.py]()https://github.com/cmsjulio/calculoSIFs/blob/main/calculo-tcc-2.1a3funcao.py**
+
+
+### Reduções
 
 **Caso 3.1 -> [calculo-tcc-3.1comH.py](https://github.com/cmsjulio/calculoSIFs/blob/main/calculo-tcc-3.1comH.py)**
 
