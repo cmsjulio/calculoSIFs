@@ -65,7 +65,7 @@ Os documentos em forma final, qual seja, aqueles que foram utilizados na obtenç
 
 ### Tês
 
-**Casos 2.1, 2.2 e 2.3 -> [calculo-tcc-2.1a3funcao.py]()https://github.com/cmsjulio/calculoSIFs/blob/main/calculo-tcc-2.1a3funcao.py**
+**Casos 2.1, 2.2 e 2.3 -> [calculo-tcc-2.1a3funcao.py](https://github.com/cmsjulio/calculoSIFs/blob/main/calculo-tcc-2.1a3funcao.py)**
 
 
 ### Reduções
