@@ -23,6 +23,7 @@ All of the files that were used in there project were made available here. The r
 
 **Case 3.1 -> calculo-tcc-3.1comH.py**
 
+------------------------------------------------------------------
 
 # Português
 Código utilizado para cálculo dos fatores de intensificação de tensão e de flexibilidade no trabalho de conclusão de curso.
