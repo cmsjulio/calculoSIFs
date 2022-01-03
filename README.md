@@ -1,11 +1,11 @@
 # English
 This page hosts the codes that were used in the research project named
 
-*"Piping design: ASME B31.3 and ASME B31J stress intensification factors comparison" [written in Portuguese]
+*"Piping design: ASME B31.3 and ASME B31J stress intensification factors comparison"* [written in Portuguese]
 
 the original text can be found [here](https://www.researchgate.net/publication/357299413_Comparacao_dos_fatores_de_intensificacao_de_tensao_das_normas_ASME_B313_e_ASME_B31J_para_dimensionamento_de_tubulacoes?channel=doi&linkId=61c529c8da5d105e55f23292&showFulltext=true).
 
-## Abstract
+## Project's abstract
 
 *This work, at first, historically contextualizes the emergence of the ASME B31.3 code for design of piping systems, following with a brief description of its scope and nature. It then, in order to clarify pertinent but not addressed in the code topics, proceeds in developing a strength of materials and flexibility analysis review. From such development, the means by which B31.3 deals with flexibility analysis is explained, so that, from the exposition of equations presented in the code, the stress intensification factor, the main topic of this work, is introduced. Such factors are important as they allow us to perform stress calculations in piping systems where a variety of components may be present (tees, reducers, elbows etc.). From such introduction and initial exposition, ASME B31.3 Appendix D and B31J are introduced as mutually accepted ways for obtaining values for such factors. The accessories for which stress intensification factors are to be calculated via both codes are then presented: bends, tees, and reducers, with results being shown, compared, and discussed in the following – with multiple points of non conservatism from Appendix D being noted. Flexibility factors are also calculated and compared.*
 
